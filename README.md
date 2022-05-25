@@ -2,7 +2,7 @@
 This repository contains code and data about information extraction project
 I.	Executable notebook files -
 1.  	Read_paragraph_MCtest_success_March18_2020.ipynb is used to clean the text data from Dataset MCTest.
-2.  	annotated-Nchunks-V-Prepo-exec-Feb22.ipynb is used to extract predicates like noun chunks, verbs and prepositions.
+2.  	annotated-Nchunks-V-Prepo-exec-Feb22.ipynb is used to extract predicates.
 3.  	NP-V-Extraction.ipynb is used to calculate the accuracy score.
 II.	Dataset files - 
 1. 	Dataset files used for experimentation - Dataset1, Dataset2, Dataset3
