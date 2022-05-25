@@ -6,6 +6,7 @@ I.	Executable notebook files -
 3.  	NP-V-Extraction.ipynb is used to calculate the accuracy score.
 II.	Dataset files - 
 1. 	Dataset files used for experimentation - Dataset1, Dataset2, Dataset3
+
 III.	Output Files - 
 1. 	For Science Dataset1 - phrases-output-science-sixthstandard.json
 2. 	For Science Dataset2 - output-Bert-golddata  1 to 6.
