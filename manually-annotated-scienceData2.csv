@@ -1,0 +1,157 @@
+no,sentence,n(list),v(list)
+1,"After gametes fuse and form a diploid zygote, meiosis occurs without a multicellular diploid offspring developing.","gametes, a diploid zygote, meiosis,a multicellular diploid offspring developing","fuse, form, occurs, offspring,devloping"
+2,Meiosis produces not gametes but haploid cells that then divide by mitosis and give rise to either unicellular descendants or a haploid multicellular adult organism,"Meiosis, not gametes,haploid, cells, that,mitosis,rise,either unicellular descendants,a haploid multicellular adult organism
+","produces, divide,give"
+3,"Subsequently, the haploid organism carries out further mitoses, producing the cells that develop into gametes.","the haploid organism, further mitoses, the cells, that,  gametes","carries, producing, develop"
+4,"During meiosis, homologous chromosomes, one inherited from each parent, trade some of their alleles by crossing over.","meiosis, homologous chromosomes,each parent, trade, some, their alleles","inherited, trade, crossing"
+5,These homologous chromosomes and the alleles they carry are then distributed at random into gametes.,"These homologous chromosomes, the alleles, they, gametes","carry, are , distributed"
+6,"Then, because myriad possible mating combinations exist in a population, fertilization brings together gametes that are likely to have different genetic  backgrounds.","myriad possible mating combinations', 'a population', 'fertilization', 'gametes', 'that', 'different genetic  backgrounds
+","exist, brings, are, have"
+7,"The combined effects of these three mechanisms ensure that sexual reproduction rearranges existing alleles into fresh combinations each generation,  providing much of the genetic variation that makes evolution possible.","The combined effects, these three mechanisms,  sexual reproduction, existing alleles, fresh combinations each generation, the genetic variation, that,evolution
+","ensure, rearranges ,existing, providing, makes"
+8,"During cellular respiration, energy is released from sugar when electrons associated  with hydrogen are transported by carriers to oxygen, forming water as a by-product .'","cellular respiration, energy , sugar, electrons, hydrogen, carriers,water, a by-product
+","is ,released, associated, are, transported,oxygen, forming.
+"
+9,"The electrons lose potential energy as they fall down  the electron transport chain toward electronegative oxygen, and the mitochondrion harnesses that energy to synthesize ATP .","The electrons, potential energy, they, the electron transport chain, electronegative oxygen, the mitochondrion harnesses,that energy,  ATP.
+","lose,harnesses, synthesize,  fall."
+10,Photosynthesis reverses the direction of electron flow.,"Photosynthesis, the direction, electron flow",reverses
+11,"Water is split, and electrons are transferred along with hydrogen ions from the water to carbon dioxide, reducing it to sugar.","Water, electrons, hydrogen ions, the water, carbon dioxide, it, sugar
+","is ,split, are ,transferred,  reducing."
+12,"When a molecule absorbs a photon of light, one of the molecule's electrons is elevated to an orbital where it has more potential energy.","a molecule, a photon, light, the molecule's electrons, an orbital, it, more potential energy
+","is,is ,elevated,has"
+13,"When the electron is in its normal orbital, the pigment molecule is said to be in its ground state.","the electron, its normal orbital, the pigment molecule, its ground state
+","is ,said,be"
+14,"Absorption of a photon boosts an electron to an orbital of higher energy, and the pigment molecule is then said to be in an excited state.","Absorption, a photon, an electron, an orbital, higher energy, the pigment molecule, an excited state
+","boosts, is , said, be"
+15,"The only photons absorbed are those whose energy  is exactly equal to the energy difference between the ground state and an excited state, and this energy difference varies from one kind of molecule to another.","The only photons, those, the energy difference, energy, the ground state, an excited state, this energy difference, one kind, molecule,another
+","absorbed, are, is , varies."
+16,"Abnormal changes on the cell surface cause cancer cells to lose attachments to neighboring cells and the extracellular matrix, allowing them to spread into nearby tissues.","Abnormal changes, the cell surface, cancer cells, attachments, neighboring cells, the extracellular matrix, them,nearby tissues
+","lose, neighboring, allowing , spread"
+17,Cancer cells may also secrete signaling molecules that cause blood vessels to grow toward the tumor .,"Cancer cells, signaling molecules, that, blood vessels, the tumor","secrete,signaling, cause, grow"
+18,"A few tumor cells may separate from the original tumor, enter blood vessels and lymph vessels, and travel to other parts of the body.","A few tumor cells , the original tumor, blood vessels, lymph vessels, other parts, the body
+","may, separate , enter, travel"
+19,"There, they may proliferate and form a new tumor","they, a new tumor","may, proliferate, form"
+20,This spread of cancer cells to locations distant from their original site is called metastasis.,"This spread, cancer cells, locations, their original site, metastasis.
+","distant, is ,called."
+21,The binding of PDGF molecules to these receptors (which are receptor tyrosine kinases;  triggers a signal transduction pathway that allows the cells to pass the G1 checkpoint and divide.,"The binding, PDGF molecules, these receptors, which, receptor tyrosine kinases, Chapter,a signal  transduction pathway, that,the cells,the G1 checkpoint
+","are ,  triggers, allows, pass, divide."
+22,"PDGF stimulates fibroblast division not only in the artificial conditions of cell culture, but also in an animal's body.","PDGF stimulates fibroblast division, the artificial  conditions, cell culture, an animal's body
+",stimulates
+23,"When an injury occurs, platelets release PDGF in the vicinity.","an injury, platelets,  the vicinity","occurs, release"
+24,The resulting proliferation of fibroblasts helps heal the wound.,"The resulting proliferation, fibroblasts, the wound","resulting, helps, heal"
+25,"During anaphase, MPF helps switch itself off by initiating a process that leads to the destruction of its own cyclin","anaphase, MPF, itself, a process, that, the destruction,its own cyclin
+","helps, switch, initiating, leads"
+26,"The noncyclin part of MPF, the Cdk, persists in the cell, inactive until it becomes part of MPF again by associating with new cyclin molecules  synthesized during the S and G2 phases of the next round of the cycle.","The noncyclin part, MPF, the Cdk, the cell, it, part, MPF,  new cyclin molecules, the S and G2 phases, the next round, the cycle
+","persists ,'becomes, associating, synthesized"
+27,"When cyclins that accumulate during G2 associate with Cdk molecules,  the resulting MPF complex phosphorylates a variety of proteins, initiating mitosis.","cyclins, that, G2 associate, Cdk molecules, the resulting MPF complex phosphorylates, a variety,proteins, mitosis
+","accumulate, associate, resulting, phosphorylates, initiating"
+28,MPF acts both directly as a kinase and indirectly by activating other kinases.,"MPF, a kinase, other kinases","acts, activating"
+29,"In E. coli, the process of cell division is initiated when the DNA of the bacterial chromosome begins to replicate at a specific place on the chromosome called the origin of replication, producing two origins.","E. coli, the process, cell division, the DNA,the bacterial chromosome, a specific place, the chromosome,the origin, replication, two origins
+","is ,initiated, begins, replicate, called, producing"
+30,"As the chromosome continues to replicate, one origin moves rapidly toward the opposite end of the cell .","the chromosome,  one origin, the opposite end, the cell.","continues, replicate, moves"
+31,"When replication is complete and the bacterium has reached about twice its initial size, its plasma membrane pinches inward, dividing the parent E. coli cell into two daughter cells.","replication, the bacterium, about twice its initial size, plasma membrane, the parent, E.cell two daughter cell
+","is, has ,reached, dividing , pinches"
+32,"The actin microfilaments interact with the myosin molecules, causing the ring to contract.","The actin microfilaments, the myosin molecules, the ring","causing, interact, contract."
+33,The contraction of the dividing cell's ring of microfilaments is like the pulling of a drawstring .,"The contraction, the dividing cell's ring, microfilaments, the pulling, a drawstring
+","dividing,is "
+34,"The cleavage furrow deepens until the parent cell is pinched in two, producing two completely separated cells, each with its own nucleus and share of cytosol, organelles, and other subcellular structures.","The cleavage furrow deepens, the parent cell, two , completely separated cells, each, its  own nucleus, share, cytosol, organelles, other subcellular structures
+","deepens, is ,pinched, producing"
+35,"Instead, during telophase, vesicles  derived from the Golgi apparatus move along microtubules to the middle of the cell, where they coalesce,  producing a cell plate.","telophase, vesicles, the Golgi apparatus, microtubules, the middle, the cell, they, a cell plate.
+","derived, move, coalesce. producing"
+36,Cell wall materials carried in the vesicles collect in the cell plate as it grows,"Cell wall materials, the vesicles, the cell plate, it","carried, collect, grows"
+37,The cell plate enlarges until its surrounding membrane fuses with the plasma membrane along the perimeter of the cell.,"The cell plate, its surrounding membrane , the plasma membrane, the perimeter, the cell
+","enlarges, fuses, surrounding"
+38,"Two daughter cells result, each with its own plasma membrane.","Two daughter cells, its own plasma membrane",
+39,"Meanwhile, a new cell wall arising from the contents of the cell plate has formed between the daughter cells.","a new cell wall, the contents, the cell plate, the daughter cells","arising, has, formed"
+40,"A sudden change in the environment, such as a fire or flood, may drastically reduce the size of a population.","A sudden change, the environment, a fire, flood, the size, a population
+","may, reduce"
+41,"A severe drop in population size can cause the bottleneck effect, so named because the population has passed through a ""bottleneck"" that reduces its size.","A severe drop, population size, the bottleneck effect, the population,a ""bottleneck"", that,its size.
+","can, cause, named, has, passed, reduces"
+42,"By chance alone, certain alleles may be overrepresented among the survivors, others may be underrepresented, and some may be absent altogether.","chance, certain alleles, the survivors, others, some","may be, overrepresented, may be, underrepresented, may be."
+43,Ongoing genetic drift is likely to have substantial effects on the gene pool until the population becomes large enough that chance events have less impact.,"Ongoing genetic drift, substantial effects, the gene pool, the population, chance events, less impact
+","is, have, becomes, have"
+44,Nonkinetochore microtubules from opposite poles overlap each other extensively during metaphase.,"Nonkinetochore microtubules,  opposite poles , metaphase .",overlap.
+45,"During anaphase, the region of overlap is reduced as motor proteins attached to the microtubules walk them away from one another, using energy from ATP.","anaphase, the region, overlap, motor proteins, the microtubules, them, one another, energy, ATP
+","is ,reduced,attached,walk, using"
+46,"As the microtubules push apart from each other, their spindle poles are pushed apart, elongating the cell.","the microtubules, their spindle poles, the cell","push, are, pushed , elongating"
+47,"At the same time, the microtubules lengthen somewhat by the addition of tubulin subunits to their overlapping ends.","the same time, the microtubules, the addition, tubulin subunits, their overlapping ends
+",lengthen.
+48,"As a result, the microtubules continue to overlap.","a result, the microtubules","continue, overlap"
+49,"During interphase in animal cells, the single centrosome duplicates, forming two centrosomes, which remain together near the nucleus.","interphase,animal cells, the single centrosome, two centrosomes, which, the nucleus","duplicates, forming,remain."
+50,The two centrosomes move apart during prophase and prometaphase of mitosis as spindle microtubules grow out from them.,"The two centrosomes, prophase, prometaphase, mitosis,spindle microtubules, them 
+","move  ,  grow "
+51,"By the end of prometaphase, the two centrosomes, one at each pole of the spindle, are at opposite ends of the cell.","the end,prometaphase,the two centrosomes,each pole,the spindle, opposite ends,the cell
+",are
+52,The binding of signaling molecules to receptors is reversible.,"The binding, molecules, receptors","signaling, is"
+53,"As the external concentration of signaling molecules falls, fewer receptors are bound at any given moment, and the unbound receptors revert to their inactive form.","the external concentration,fewer receptors, molecules, any given moment, the unbound receptors, their inactive form
+","signaling, are, bound, given, revert"
+54,The cellular response occurs only when the concentration of receptors with bound signaling molecules is above a certain threshold,"The cellular response,the concentration, receptors, bound signaling molecules, a certain threshold
+","occurs, signaling,is"
+55,"When the number of active receptors falls below that threshold, the cellular response ceases .","the number, active receptors, that threshold, the cellular response
+","falls, ceases."
+56,"Then, by a variety of means, the relay molecules return to their inactive forms: The GTPase activity intrinsic to a G protein hydrolyzes its bound GTP; the enzyme phosphodiesterase converts cAMP to AMP; protein phosphatases inactivate phosphorylated kinases and other proteins; and so forth","a variety, means, the relay molecules, their inactive forms, The GTPase activity, a G protein, its bound GTP,the enzyme phosphodiesterase converts cAMP, AMP, protein phosphatases,phosphorylated kinases,other proteins
+"," return, is, hydrolyzes, converts, phosphatases, inactivate 
+"
+57,"In this signaling system, the hormone epinephrine acts through a G protein-coupled receptor to activate a succession of relay molecules, including cAMP and two protein kinases.","this signaling system, the hormone epinephrine, a G protein-coupled receptor, a succession, relay molecules, cAMP, two protein kinases
+","acts, activate, including."
+58,"The final protein activated is the enzyme glycogen phosphorylase, which uses inorganic phosphate to release glucose monomers from glycogen in the form of glucose 1-phosphate molecules","The final protein, the enzyme glycogen phosphorylase, which, inorganic phosphate, glucose monomers, glycogen, the form, glucose 1-phosphate molecules
+","activated, is,uses,release"
+59,"The initial signaling molecule,  a local regulator called a growth factor, triggers a phosphorylation cascade.","The initiak signaling molecule, a local regulator, a growth factor, a phosphorylation cascade.
+","called,triggers"
+60,The ATP molecules and phosphate groups are not shown.,"The ATP molecules, phosphate groups","are ,shown"
+61,"Once phosphorylated, the last kinase in the sequence enters the nucleus and there activates a gene-regulating protein, a transcription factor","the last kinase, the sequence, the nucleus, a gene-regulating protein, a transcription factor
+","phosphorylated, enters, activates"
+62,This protein stimulates transcription of a specific gene (or genes).,"This protein, transcription, a specific gene, genes",stimulates
+63,The resulting mRNA then directs the synthesis of a particular protein in the cytoplasm.,"The resulting mRNA, the synthesis, a particular protein, the cytoplasm
+","resulting, directs"
+64,"In one pathway, cyclic GMP, or cGMP, acts as a signaling molecule whose effects include relaxation of smooth muscle cells in artery walls.","one pathway, cyclic GMP, a signaling molecule, whose effects, relaxation, smooth  muscle cells, artery walls
+","acts,include"
+65,"A compound that inhibits the hydrolysis of cGMP to GMP, thus prolonging the signal, was originally prescribed for chest pains because it increased blood flow to the heart muscle.","A compound, that, the hydrolysis, cGMP to GMP, the signal, chest pains, it, blood flow, the heart muscle
+","inhibits, prolonging, was, prescribed, increased"
+66,"Under the trade name Viagra, this compound is now widely used as a treatment for erectile dysfunction in human males.","the trade name Viagra, this compound, a treatment,erectile dysfunction, human males
+","is, used"
+67,"Because Viagra leads to dilation of blood vessels,  it also allows increased blood flow to the penis, optimizing physiological conditions for penile erections.","Viagra, dilation, blood vessels, it, increased blood flow, the penis, physiological conditions, penile erections
+","leads, allows increased, optimizing"
+68,The binding of a specific signaling molecule to a receptor in the plasma membrane triggers the first step in the chain of molecular interactions: the signal transduction pathway: that leads to a particular response within the cell.,"The binding, a specific signaling molecule,a receptor, the plasma membrane, the first step, the chain, molecular interactions, that, the signal transduction pathway, a particular response, the cell
+","signaling, triggers, leads"
+69,"Like falling dominoes, the signal-activated receptor activates another molecule, which activates yet another molecule, and so on, until the protein that produces the final cellular response is activated.","falling dominoes, the signal-activated receptor, another molecule, which, yet another molecule, the protein, that, the final cellular response
+","falling, activates , activates, produces, is ,activated"
+70,A receptor protein on or in the target cell allows the cell to hear the signal and respond to it.,"A receptor protein, the target cell, the cell, the signal,  it","allows, hear."
+71,"The signaling molecule is complementary in shape to a specific site on the receptor and attaches there, like a key in a lock or a substrate in the catalytic site of an enzyme","The signaling molecule, complementary, shape, a specific site, the receptor,  a key, a lock, a substrate, the catalytic site, an enzyme
+"," attaches, is"
+72,"The signaling molecule behaves as a ligand, the term for a molecule that specifically binds to another molecule, often a larger one.","The signaling molecule, a ligand, a molecule, that, another molecule, a larger one
+","signaling,binds"
+73,Ligand binding generally causes a receptor protein to undergo a change in shape.,"Ligand binding, a receptor protein, a change, shape","undergo,binding"
+74,"For many receptors, this shape change directly activates the receptor, enabling it to interact with other cellular molecules.","many receptors, this shape change, the receptor, it, other cellular molecules
+","activates, enabling, interact"
+75,"For other kinds of receptors, the immediate effect of ligand binding is to cause the aggregation of two or more receptor molecules, which leads to further molecular events inside the cell.","other kinds, receptors, the immediate effect, ligand binding, the aggregation, two or more receptor molecules, which, further molecular events, the cell
+","is ,cause, leads"
+76,A cell is frozen and fractured with a knife.,"a cell, a knife","is, frozen, fractured"
+77,"The fracture plane often follows the hydrophobic interior of a membrane, splitting the phospholipid bilayer into two separated layers","The fracture plane, the hydrophobic interior, a membrane , the phospholipid bilayer, two separated layers.","follows,splitting,separated"
+78,Each membrane protein goes wholly with one of the layers.,"Each membrane protein, the layers",goes
+79,"""In 1795, Scottish geologist James Hutton (1726-1797)  proposed that Earth's geologic features could be explained by gradual mechanisms still operating today","scottish geologist James Hutton, Earth's geologic features,gradual mechanisms, today.","proposed, could, be,explained,operating"
+80,"Organisms share many characteristics, leading Darwin to perceive unity in life.","Organisms ,many characteristics, Darwin ,unity, life","share, leading,perceive"
+81,He attributed the unity of life to the descent of all organisms from an ancestor that lived in the remote past,"He,the unity,life,the descent,all organisms, an ancestor, that, the remote past","attributed, lived"
+82,"He also thought that as the descendants of that ancestral organism lived in various habitats over millions of years, they accumulated diverse modifications, or adaptations, that fit them to specific ways of life","He, the descendants , that ancestral organism ,various habitats ,millions ,years ,they ,diverse modifications ,adaptations ,that ,them ,specific ways ,life","thought,lived,accumalted,fit"
+83,"Darwin reasoned that over long periods of time, descent with modification eventually led to the rich diversity of life we see today","Darwin, long periods ,time ,descent ,modification ,the rich diversity ,life, we, today.","reasoned,led,see"
+84,"The story begins in 1943, when penicillin became the first widely used antibiotic.","the story, penicillin, the first widely used antibiotic.","begins,used,became"
+85,"Since then, penicillin and other antibiotics have saved millions of lives.","penicillin , other antibiotics ,millions, lives","have, saved"
+86,"However, by 1945, more than 20% of the S. aureus strains seen in hospitals were already resistant to penicillin.","more than 20% , the S. aureus strains, hospitals , penicillin","seen, were, penicillin"
+87,"These bacteria had an enzyme, penicillinase, that could destroy penicillin","These bacteria , an enzyme ,penicillinase ,that,penicillin","had, destroy"
+88,"Researchers responded by developing antibiotics that were not destroyed by penicillinase, but some S. aureus populations developed resistance to each new drug within a few years.","Researchers ,antibiotics ,that ,penicillinase ,some S. aureus populations ,resistance ,each new drug ,a few years","responded,developing,were,destroyed,developed"
+89,"In the past, gene annotation was carried out laboriously by individual scientists interested in particular genes, but the process has now been largely automated.","the past, gene annotation, individual scientists ,particular genes ,the process","was,carried, interested, has been, automated."
+90,The software also looks for certain short sequences that specify known mRNAs.,"The software, certain short sequences, that ,mRNAs","looks,specify,known"
+91,"Thousands of such sequences, called expressed sequence tags, or ESTs, have been collected from cDNA sequences and are cataloged in computer databases","Thousands , such sequences ,expressed sequence tags , ESTs ,cDNA sequences ,computer databases","called,expressed,have,been,collected,are,cataloged"
+92,This type of analysis identifies sequences that may be previously unknown protein-coding genes.,"This type, analysis ,sequences ,that ,previously unknown protein-coding genes","sequences, may be"
+93,"To process the vast number of protein interactions generated by this experiment and integrate them into the completed map required powerful computers, mathematical tools, and newly developed software.","the vast number, protein interactions, this experiment, them, the completed map, powerful computers, mathematical tools, newly developed software","process,generated,integrate,completed,required,develpoed"
+94,"During the process called transposition, a transposable element moves from one site in a cell's DNA to a different target site by a type of recombination process.","the process , transposition , a transposable element, one site , a cell's DNA, a different target site,a type, recombination process","called, moves."
+95,"The first type are transposons, which move within a genome by means of a DNA intermediate.","The first type, transposons,which,a genome, means,a DNA intermediate","are,move."
+96,"In a polyploid organism, one set of genes can provide essential functions for the organism","a polyploid organism ,one set,genes ,essential functions, the organism","can, provide"
+97,"In this way, genes with novel functions can evolve.","this way,genes ,novel functions","can, evolve"
+98,"By a similar process, a particular exon within a gene could be duplicated on one chromosome and deleted from the other.","a similar process ,a particular exon ,a gene ,one chromosome,the other","could be,duplicated,deleted"
+99,The gene with the duplicated exon would code for a protein containing a second copy of the encoded domain,"The gene, the duplicated exon, a protein, a second copy, the encoded domain","would, code, containing"
+100,"The founder effect might occur, for example, when a few members of a population are blown by a storm to a new island","The founder effect ,example,a few members,a population ,a storm,a new island","occur,are,blown"
+101,These data suggest that genetic drift during the bottleneck may have led to a loss of genetic variation and an increase in the frequency of harmful alleles.,"These data ,genetic drift, the bottleneck, a loss, genetic variation, an increase, the frequency, harmful alleles","suggest, may, have ,led."
+102,"Drift may also have increased the frequency of harmful alleles, leading to the low egg-hatching rate.","Drift ,the frequency,harmful alleles ,the low egg-hatching rate","may, have, increased,leading"
+103,"To counteract these negative effects, 271 birds from neighboring states were added to the Illinois population over four years.","these negative effects ,271 birds ,neighboring states ,the Illinois population ,four years","counteract,neighboring,were,added"
+104,"This strategy succeeded: New alleles entered the population, and the egg-hatching rate improved to over 90%","This strategy,New alleles ,the population ,the egg-hatching rate, over 90%","succeeded,entered,improved"
